@@ -5,7 +5,7 @@
 [![Website Badge](https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white)](https://ponicode.com)
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-00acee?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/PonicodeDev)
 [![Slack Badge](https://img.shields.io/badge/-Slack-4a154b?style=flat-square&logo=Slack&logoColor)](https://ponicode-community.slack.com/)
-[![Linkedin Badge](https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor)](https://linkedin.com/Ponicode)
+[![Linkedin Badge](https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor)](https://www.linkedin.com/company/ponicode/)
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Welcome+to+our+official+GitHub;Ponicode+helps+with+code+quality)](https://git.io/typing-svg)
 
