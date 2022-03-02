@@ -31,7 +31,7 @@ We are a French startup crafting a platform for developers to improve their code
 
 ## 🌏 Our projects
 
-All the links to our solutions and integrations are available on [our website](www.ponicode.com/download)
+All the links to our solutions and integrations are available on [our website](https://app.ponicode.com)
 
 ### 🔌 VSCode and IntelliJ Extensions
 
@@ -51,7 +51,7 @@ Or get started with [Ponicode SQUAR GitHub Action](https://github.com/marketplac
 
 ### 🚀 TurboCov
 
-Hey Freelancers! Boost your code coverage with TurboCov! Powered by our AI, you can generate tests to reach 80% code coverage automatically! It's available [on our platform](app.ponicode.com) with the Ponicode Premium offer.
+Hey Freelancers! Boost your code coverage with TurboCov! Powered by our AI, you can generate tests to reach 80% code coverage automatically! It's available [on our platform](https://app.ponicode.com) with the Ponicode Premium offer.
 
 ### 🐶 DogString
 
