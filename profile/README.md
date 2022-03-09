@@ -1,3 +1,5 @@
+## 🦄 Ponicode has been acquired by CircleCI :rocket: [Read the announcement here](http://www.ponicode.com/blog/circleci-completes-acquisition-of-ponicode) 
+
 ## Hi, we are Ponicode
 
 ![](https://komarev.com/ghpvc/?username=ponicode)
